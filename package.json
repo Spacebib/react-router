@@ -9,7 +9,7 @@
     "lib",
     "umd"
   ],
-  "main": "lib/index",
+  "main": "es6/index",
   "jsnext:main": "es6/index",
   "repository": "reactjs/react-router",
   "homepage": "https://github.com/reactjs/react-router#readme",
