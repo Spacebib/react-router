@@ -66,7 +66,6 @@ var RouterContext = function (_React$Component) {
   };
 
   RouterContext.prototype.render = function render() {
-    console.log('hi ma!');
     var _this2 = this;
 
     var _props2 = this.props,
